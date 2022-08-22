@@ -120,11 +120,11 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '127.0.0.1',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'ayoindonesia',
-	'dbdriver' => 'mysqli',
+	'hostname' => 'ec2-44-207-126-176.compute-1.amazonaws.com',
+	'username' => 'qedyzremhadsis',
+	'password' => 'b3962998f77a434a1348a1b9d50c5c6e2862bf7792d4baa051dc9dcfa8043ff2',
+	'database' => 'de61ullopror44',
+	'dbdriver' => 'postgre',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
