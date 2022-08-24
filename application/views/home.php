@@ -153,70 +153,7 @@
     </section><!-- End Services Section -->
  
     <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="contact">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Ajukan Pembiayaan Sekarang</h2>
-         
-        </div>
-
-        <!-- <div class="row" data-aos="fade-up" data-aos-delay="100">
-          <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
-            </ul>
-          </div>
-        </div> -->
-
-        <div class="row" data-aos="fade-up" data-aos-delay="100">
-          <div class="col-md-8 offset-md-2">
-          <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              <div class="row">
-                <div class="col form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
-                </div>
-                <div class="col form-group">
-                  <label for="">Jenis Kelamin</label>
-                  <div class="option">
-                      <input type="radio" name="gender" value="male" checked="true">
-                      Pria
-                      <input type="radio" name="gender" value="female">
-                      Wanita
-                    </div>
-                    <div class="option">
-                      
-                    </div>
-                </div>
-                
-              </div>
-              <div class="row">
-              <div class="col form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
-                </div>
-              <div class="col form-group">
-                <input type="number" class="form-control" name="telepon" id="telepon" placeholder="Telepon" required>
-              </div>
-          </div>
-              <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
-              </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Submit</button></div>
-            </form>
-            </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Portfolio Section -->
+    <?php echo @$form; ?><!-- End Portfolio Section -->
 
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials">

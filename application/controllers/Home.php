@@ -13,6 +13,7 @@ class Home extends CI_Controller {
 		$data['page'] 			= "home";
 		$data['judul'] 			= "Beranda";
 		$data['deskripsi'] 		= "Manage Data CRUD";
+		$data['form'] 			= $this->load->view('form', $data, TRUE);
 		$this->template->views('home', $data);
 	}
 }
