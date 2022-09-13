@@ -76,6 +76,38 @@
                     </div>
                   </div>
                 </div>
+                <div class="row">
+                  <div class="col-md-6 mb-4">
+                    <div class="form-outline">
+                      <label class="form-label" for="form3Example1m1">Merk</label>
+                      <input type="text" id="form3Example1m1" class="form-control form-control-lg" />
+                      
+                    </div>
+                  </div>
+                  <div class="col-md-6 mb-4">
+                    <div class="form-outline">
+                      <label class="form-label" for="form3Example1n1">Tipe Mobil</label>
+                      <input type="text" id="form3Example1n1" class="form-control form-control-lg" />
+                      
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6 mb-4">
+                    <div class="form-outline">
+                      <label class="form-label" for="form3Example1m1">Tenor</label>
+                      <input type="text" id="form3Example1m1" class="form-control form-control-lg" />
+                      
+                    </div>
+                  </div>
+                  <div class="col-md-6 mb-4">
+                    <div class="form-outline">
+                      <label class="form-label" for="form3Example1n1">No Whatsapp</label>
+                      <input type="number" id="form3Example1n1" class="form-control form-control-lg" />
+                      
+                    </div>
+                  </div>
+                </div>
 
                 <div class="form-outline mb-4">
                   <label class="form-label" for="form3Example8">Alamat</label>
