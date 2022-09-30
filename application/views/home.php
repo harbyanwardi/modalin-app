@@ -206,7 +206,7 @@
             <li class="na">Massa ultricies mi</li>
           </ul>
           <div class="btn-wrap">
-            <a href=href="https://api.whatsapp.com/send?phone=6281293635946&text=Hallo%20Saya%20dapat%20Info%20dari%20website,%20Saya%20Ingin%20Mengajukan%20Pinjaman" class="float" target="_blank" class="btn-buy">Ajukan Pengajuan</a>
+            <a href="https://api.whatsapp.com/send?phone=6281293635946&text=Hallo%20Saya%20dapat%20Info%20dari%20website,%20Saya%20Ingin%20Mengajukan%20Pinjaman" target="_blank" class="btn-buy">Ajukan Pengajuan</a>
           </div>
         </div>
       </div>
@@ -222,7 +222,7 @@
             <li class="na">Massa ultricies mi</li>
           </ul>
           <div class="btn-wrap">
-            <a href="https://api.whatsapp.com/send?phone=6281293635946&text=Hallo%20Saya%20dapat%20Info%20dari%20website,%20Saya%20Ingin%20Mengajukan%20Pinjaman" class="float" target="_blank" class="btn-buy">Ajukan Pengajuan</a>
+            <a href="https://api.whatsapp.com/send?phone=6281293635946&text=Hallo%20Saya%20dapat%20Info%20dari%20website,%20Saya%20Ingin%20Mengajukan%20Pinjaman" target="_blank" class="btn-buy">Ajukan Pengajuan</a>
           </div>
         </div>
       </div>
@@ -238,7 +238,7 @@
             <li>Massa ultricies mi</li>
           </ul>
           <div class="btn-wrap">
-            <a href="https://api.whatsapp.com/send?phone=6281293635946&text=Hallo%20Saya%20dapat%20Info%20dari%20website,%20Saya%20Ingin%20Mengajukan%20Pinjaman" class="float" target="_blank" class="btn-buy">Ajukan Pengajuan</a>
+            <a href="https://api.whatsapp.com/send?phone=6281293635946&text=Hallo%20Saya%20dapat%20Info%20dari%20website,%20Saya%20Ingin%20Mengajukan%20Pinjaman" target="_blank" class="btn-buy">Ajukan Pengajuan</a>
           </div>
         </div>
       </div>
