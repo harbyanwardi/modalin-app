@@ -27,17 +27,19 @@
       <div class="content col-xl-5 d-flex align-items-stretch">
         <div class="content">
           <h3>Produk dan Layanan</h3>
+          <img src="assets/img/taxes.png" alt="" width="500" height="630" class="img-fluid">
+          
           <!-- <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
               </p> -->
-          <a href="#" class="about-btn"><span>Coba Sekarang</span> <i class="bx bx-chevron-right"></i></a>
+          <!-- <a href="#" class="about-btn"><span>Coba Sekarang</span> <i class="bx bx-chevron-right"></i></a> -->
         </div>
       </div>
       <div class="col-xl-7 d-flex align-items-stretch">
         <div class="icon-boxes d-flex flex-column justify-content-center">
           <div class="row">
             <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-receipt"></i>
+              <i class="bi bi-briefcase-fill"></i>
               <h4>Pembiayaan Modal Kerja</h4>
               <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
             </div>
@@ -47,7 +49,7 @@
               <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
             </div>
             <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-              <i class="bx bx-images"></i>
+              <i class="bi bi-car-front-fill"></i>
               <h4>Kredit Motor & Mobil</h4>
               <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
             </div>
@@ -72,25 +74,25 @@
     <ul class="nav nav-tabs row d-flex">
       <li class="nav-item col-3">
         <a class="nav-link show" data-bs-toggle="tab" data-bs-target="#tab-1">
-          <i class="ri-gps-line"></i>
+          <i class="bi-ui-checks"></i>
           <p>Pilih jenis jaminan & isi formulir pinjaman online hingga selesai</p>
         </a>
       </li>
       <li class="nav-item col-3">
         <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
-          <i class="ri-body-scan-line"></i>
+        <i class="bi bi-telephone-outbound-fill"></i>
           <p>Konfirmasi via telepon</p>
         </a>
       </li>
       <li class="nav-item col-3">
         <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
-          <i class="ri-sun-line"></i>
+        <i class="bi bi-clipboard-check-fill"></i>
           <p>Survey Pinjaman</p>
         </a>
       </li>
       <li class="nav-item col-3">
         <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
-          <i class="ri-store-line"></i>
+        <i class="bi bi-cash-coin"></i>
           <p>Dana Langsung Cair</p>
         </a>
       </li>
