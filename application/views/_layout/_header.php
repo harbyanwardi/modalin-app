@@ -45,7 +45,7 @@
        <div class="col-xl-6">
          <h1>Pinjaman Dana Tunai</h1>
          <h2>Membantu Mewujudkan Perekonomian Anda Menjadi Lebih Baik</h2>
-         <a href="#about" class="btn-get-started scrollto">Get Started</a>
+         <a href="#pengajuan" class="btn-get-started scrollto">Get Started</a>
        </div>
      </div>
    </div>
