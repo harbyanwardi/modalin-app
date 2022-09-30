@@ -57,24 +57,24 @@
      flex-direction: column;
      justify-content: center;
      text-align: center;
-     width: 180px;
+     width: 100%;
    }
 
    .keuntungan-item .keuntungan-title {
-     align-self: center;
-     width: 162px;
-     font-size: 14px;
+     align-self: center!important;
+     width: 100%;
+     font-size: 18px;
      font-weight: 600;
      line-height: 30px;
-     text-align: center;
+     text-align: center!important;
      letter-spacing: 0em;
      color: #fefefe;
    }
    .keuntungan-item .keuntungan-img {
-     align-self: center;
+     align-self: center!important;
      width: 80px;
      line-height: 15px;
-     text-align: center;
+     text-align: center!important;
      letter-spacing: 0em;
      color: #fefefe;
    }

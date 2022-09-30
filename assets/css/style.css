@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #444444;
 }
 
@@ -735,7 +735,7 @@ section {
 
 @media (max-width: 768px) {
   .tabs .nav-link i {
-    padding: 0;
+    padding: 20;
     line-height: 1;
     font-size: 36px;
   }
@@ -747,7 +747,8 @@ section {
   }
 
   .tabs .nav-link i {
-    font-size: 24px;
+    font-size: 40px;
+    margin: 10px;
   }
 }
 

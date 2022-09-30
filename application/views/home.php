@@ -27,7 +27,7 @@
       <div class="content col-xl-5 d-flex align-items-stretch">
         <div class="content">
           <h3>Produk dan Layanan</h3>
-          <img src="assets/img/taxes.png" alt="" width="500" height="630" class="img-fluid">
+          <img src="assets/img/taxes.png" alt="" width="300" height="380" class="img-fluid">
           
           <!-- <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
@@ -71,32 +71,38 @@
 <section id="tabs" class="tabs">
   <div class="container" data-aos="fade-up">
     <h3>Langkah Mudah Mengajukan Pinjaman</h3>
-    <ul class="nav nav-tabs row d-flex">
-      <li class="nav-item col-3">
-        <a class="nav-link show" data-bs-toggle="tab" data-bs-target="#tab-1">
+    <div class="col-xl-12 d-flex align-items-stretch">
+        <div class="icon-boxes d-flex flex-column justify-content-center">
+          <div class="row" style="align-items: center;justify-content: center;">
+            <div class="col-md-3 icon-box" data-aos="fade-up" data-aos-delay="100">
+            <a class="nav-link show" data-bs-toggle="tab" data-bs-target="#tab-1">
           <i class="bi-ui-checks"></i>
           <p>Pilih jenis jaminan & isi formulir pinjaman online hingga selesai</p>
         </a>
-      </li>
-      <li class="nav-item col-3">
-        <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
+            </div>
+            <div class="col-md-3 icon-box" data-aos="fade-up" data-aos-delay="200">
+            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
         <i class="bi bi-telephone-outbound-fill"></i>
           <p>Konfirmasi via telepon</p>
-        </a>
-      </li>
-      <li class="nav-item col-3">
-        <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
+        </a>    
+          </div>
+            <div class="col-md-3 icon-box" data-aos="fade-up" data-aos-delay="300">
+            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
         <i class="bi bi-clipboard-check-fill"></i>
           <p>Survey Pinjaman</p>
-        </a>
-      </li>
-      <li class="nav-item col-3">
-        <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
+        </a>    
+          </div>
+            <div class="col-md-3 icon-box" data-aos="fade-up" data-aos-delay="300">
+            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
         <i class="bi bi-cash-coin"></i>
           <p>Dana Langsung Cair</p>
-        </a>
-      </li>
-    </ul>
+        </a>    
+          </div>
+            
+          </div>
+        </div><!-- End .content-->
+      </div>
+   
 
 
   </div>
